@@ -51,4 +51,3 @@ if st.button("Classify"):
 
         # 5. Display the result
         st.subheader(f"Predicted Genre: {predicted_genre}")
- 
